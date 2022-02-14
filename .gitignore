@@ -9,4 +9,11 @@ wordpress/wp-content/*
 !wordpress/wp-content/themes
 wordpress/wp-content/themes/*
 !wordpress/wp-content/themes/portfolio
+
+!wordpress
+wordpress/*
+!wordpress/wp-content
+wordpress/wp-content/*
+!wordpress/wp-content/themes
+wordpress/wp-content/themes/*
 !wordpress/wp-content/thems/dw
