@@ -2,6 +2,7 @@
 
 !.gitignore
 !README.md
+!database.sql
 
 
 !wordpress
@@ -12,7 +13,4 @@ wordpress/wp-content/*
 wordpress/wp-content/themes/*
 !wordpress/wp-content/themes/portfolio
 !wordpress/wp-content/themes/dw
-
-!database.sql
-!bonjour
 
